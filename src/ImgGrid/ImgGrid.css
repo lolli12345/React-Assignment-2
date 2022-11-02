@@ -1,0 +1,40 @@
+.gridBox{
+    position: relative;
+    width: 65%;
+    padding-left: 250px;
+    margin-top: 20px;
+    
+}
+.gridImg{
+    display: grid;
+    grid-template-columns: auto auto auto;
+    gap: 20px;
+    
+}
+.gridData{
+    border: 1px solid lightblue;
+    border-radius: 5px;
+    background: white;
+    
+}
+.gridData h3{
+    
+    padding-left: 10px;
+    
+}
+.gridData p{
+    font-size: 14px;
+    color: gray;
+    padding-left: 10px;
+}
+.gridData h5{
+    color: #0096ff;
+    padding-left: 10px;
+}
+.gridImg img{
+    width: 100%;
+    height: 200px;
+    border-radius: 5px;
+}
+
+ 

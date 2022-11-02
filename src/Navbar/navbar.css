@@ -1,0 +1,43 @@
+.navbar{
+    position: relative;
+    width: 100%;
+    height: 80px;
+    box-shadow: 1px 1px 2px grey;
+    line-height: 0px;
+    position: sticky;
+    display: flex;
+    background: white;
+}
+.navlogo{
+    position: relative;
+    margin-top: 5px;
+    margin-left: 70px;
+    padding-top: 8px;
+}
+.navlogo h1{
+   color: #0096ff;
+   font-weight: 800;
+   font-size: 34px;
+}
+.dropdown{
+    padding-left: 60px;
+    padding-top: 40px;
+}
+.headerLink{
+    margin-top: 25px;
+    
+}
+.linkBox {
+   width: 150px;
+   height: 30px;
+   border: 1px solid #0096ff;
+   border-radius: 20px;
+   margin-left: 700px;
+   background-color: #0096ff;
+}
+.linkBox p{
+    font-size: 14px;
+    color: aliceblue;
+    text-align: center;
+    cursor: pointer;
+}

@@ -1,0 +1,50 @@
+.posts{
+    padding-left: 250px ;
+    width: 90%;
+    height: 150px;
+}
+.filter{
+    display: inline-flex;
+    color: #0096ff;
+    
+}
+.all p{
+   width: 25px;
+   height: 15px;
+   border: 1px solid #0096ff;
+   background-color: #0096ff;
+   color: aliceblue;
+   border-radius: 10px;
+   text-align: center;
+   font-size: 12px;
+   cursor: pointer;
+}
+
+.filterBox {
+    width: auto;
+    height: 20px;
+    font-size: 12px;
+}
+.filterBox p{
+    
+    width: auto;
+    border: 1px solid #0096ff;
+    border-radius: 10px;
+    padding: 0 5px;
+    text-align: center;
+    
+}
+
+.innerFilter{
+display: flex;    
+}
+.innerFilter p{
+    margin-left: 10px;
+    cursor: pointer;
+}
+.innerFilter p:hover{
+    background-color: black;
+}
+.all p:hover{
+    background-color: #0096ff;
+   }

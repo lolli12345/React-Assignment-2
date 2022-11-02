@@ -1,0 +1,236 @@
+[
+    {
+        "photo":"https://edyoda.s3.amazonaws.com/media/blog-images/7_reasons_to_learn_Python_u3lFION.jpg",
+        "title":"Fresh Graduate or IT professional ",
+        "name":"Arman Ahmed",
+        "description":"Our interaction with the engineering graduates and IT professionals during the technology workshops, seminars and our technology skilling initiatives, We found out the current tech skill-sets of the millennial generation and the skill gap."
+    },
+    {
+        "photo":"https://edyoda.s3.amazonaws.com/media/blog-images/edyoda_WxvDSK1.jpg",
+        "title":"Introducing you all to EdYoda ",
+        "name":"Arman Ahmed",
+        "description":"It’s been a long time, almost 3 years since we started our journey. A lot has changed since then. The past years had stories around all the emotions that are humanly possible. There was some amazing success and of course a lot of terrible failures."
+    },
+    {
+        "photo":"https://edyoda.s3.amazonaws.com/media/blog-images/devops-edYoda-blog-small.jpg",
+        "title":"From identity crisis to the Success Story",
+        "name":"Kalyan Mahalingam ",
+        "description":"DevOps is a paradigm shift in the way how software products are being built in the modern day Information Technology (IT) organizations. It is becoming the de-facto component in Software Development Lifecycle (SDLC) process in most of the organizations."
+    },
+    {
+        "photo":"https://edyoda.s3.amazonaws.com/media/blog-images/Data_Scientist_1920_1280_DsZBGZu.jpg",
+        "title":"Typical day of Data Scientist - An insider story!",
+        "name":"Saurav Ghosh",
+        "description":"Here I have tried to answer some of the frequently asked questions by friends and juniors planning to switch their profiles and roles in the areas of Business Analytics, Data Science, and Machine Learning."
+    },
+    {
+        "photo":"https://edyoda.s3.amazonaws.com/media/blog-images/edyoda_blog_aws_cloudday_17may2018_Bangalore_small_ByulIE.jpg",
+        "title":"Amazon Web Services (AWS) Cloud Day ",
+        "name":"Kalyan Mahalingam ",
+        "description":" I recently had the opportunity to attend the AWS Cloud Day event organized by Amazon Web Services. The AWS Cloud Day brings together the cloud computing community to connect, collaborate and learn about AWS. Here, I have tried to share my learning and experience of the event. "
+    },
+    {
+        "photo":"https://edyoda.s3.amazonaws.com/media/blog-images/cloud-meetup-edyoda-small_b2EXhBe.jpg",
+        "title":"edYoda Meetup #01 : A Date with Cloud",
+        "name":"Ashish Pandey ",
+        "description":" I recently had the opportunity to lead the initiative to organize the first Cloud meetup for edYoda. Here, I recount my experience in organizing the very first in the series of meetups planned by the team here. "
+    },
+    {
+        "photo":"https://edyoda.s3.amazonaws.com/media/blog-images/pitanjal-industry-4-image-1.jpg",
+        "title":"Industry 4.0 - The Prospects & Journey ahead!",
+        "name":"Pitanjal Dutta",
+        "description":"The time has come to paint the dreams of smart city mission in the canvas of reality. The smart home will enable you with full digital control of your house. This will lead to efficient energy consumption. The self driving cars will make the roads safe for every citizen to travel. "
+    },
+    {
+        "photo":"https://edyoda.s3.amazonaws.com/media/blog-images/Copy_of_aptitude_1920_1280_LVmu25g.png",
+        "title":"Why do Database Systems Exist ?",
+        "name":"Pitanjal Dutta ",
+        "description":"A couple of days back, I was having a code review of my program which scraps the keyword insights from trending Tweets. But then, my colleague asked me a very interesting question which brought back the memories of college days."
+    },
+    {
+        "photo":"https://edyoda.s3.amazonaws.com/media/blog-images/aptitude-small.jpg",
+        "title":"Master your General Aptitude Job Interview Success",
+        "name":"Pitanjal Dutta  ",
+        "description":"A general aptitude becomes very important, when you apply for a job in a tech company. You might be highly skilled in your subject domain. However, these basic aptitude help a recruiter understand your problem solving abilities if something unexpected comes your way during your job role."
+    },
+    {
+        "photo":"https://edyoda.s3.amazonaws.com/media/blog-images/ace-soft-skills-small.jpg",
+        "title":"Ace your Soft Skills - Tips to crack the job interview",
+        "name":"Pitanjal Dutta ",
+        "description":"Soft skills are seen to be as important as your technical skill set. When an organisation is hiring, soft skills is given a lot of weightage and thus becomes a very important area for you as a candidate to emphasize on.Typically, a job interview has got 2 broad rounds."
+    },
+    {
+        "photo":"https://edyoda.s3.amazonaws.com/media/blog-images/learn-artificial-intelligence.jpeg",
+        "title":"Getting started with Artificial Intelligence",
+        "name":"EdYoda",
+        "description":"We’re rapidly moving towards a day and age where almost everything can be controlled by machines and one of the most revolutionary moves has been the advent of artificial intelligence. In this artificial intelligence course, we will talk about how to get started with AI and what exactly it is."
+    },
+    {
+        "photo":"https://edyoda.s3.amazonaws.com/media/blog-images/WhatsApp_Image_2019-06-19_at_17.55.10.jpeg",
+        "title":"Learn these Programming Languages in 2019",
+        "name":"EdYoda ",
+        "description":"Starting a career as a software developer obviously requires one to undertake a programming languages course that can cover everything from the basics to even the minute details. To learn a programming language though, one needs to also understand which one is suitable for you."
+    },
+    {
+        "photo":"https://edyoda.s3.amazonaws.com/media/blog-images/learn_cloud_computing.jpeg",
+        "title":"Learn cloud computing- an introduction",
+        "name":"EdYoda ",
+        "description":"If you learn cloud computing then you can make things much easier for your projects. You do not have to rely on multiple hard drives or data storage devices for with cloud computing you can store all your important data on a remote database. To put it simply cloud computing offers the delivery of different services through the internet. "
+    },
+    {
+        "photo":"https://edyoda.s3.amazonaws.com/media/blog-images/1_G1i7GlRPMGboYZdRhOeWaw.png",
+        "title":"Building the University for the 21st century — EdYoda 2.0",
+        "name":"Arman Ahmed ",
+        "description":"The google analytics dashboard was firing up, the whole team, each one of us was on the edges — half elated, half anxious and a little worried. And it happened, the servers crashed due to the surge in traffic. We were clearly not prepared, the number of visitors far exceeded our expectations."
+    },
+    {
+        "photo":"https://edyoda.s3.amazonaws.com/media/blog-images/data-mining-an-overview.jpg",
+        "title":"Data Mining: An overview",
+        "name":"EdYoda ",
+        "description":"The process used by companies to convert raw data into useful information is called Data Mining. It is a process of searching, collecting, filtering and analyzing the data. A large amount of data can be retrieved from various websites and databases"
+    },
+    {
+        "photo":"https://edyoda.s3.amazonaws.com/media/blog-images/an-introduction-to-green-cloud-computing.jpg",
+        "title":"An Introduction to Green Cloud Computing",
+        "name":"EdYoda ",
+        "description":"Sustainability has been gaining importance since the last two decade because of the extensive exploitation of natural resources by mankind. It has been noted that during the last decade the use of natural resources has been increased due to the increasing population. Through the influence of Information and Communication Technologies (ICTs),"
+    },
+    {
+        "photo":"https://edyoda.s3.amazonaws.com/media/blog-images/overview-of-natural-language-processing-in-artificial-intelligence.jpg",
+        "title":"Overview of Natural Language Processing in Artificial Intelligence",
+        "name":"EdYoda ",
+        "description":"Over the last few years, Artificial Intelligence has made a prominent space as it uses technology that has made machines capable to perform tasks as humans do. The uses follow in all the industries be it the business world, finance sector, daily to-do task reminders, remarkable healthcare innovations, and even protecting the world from terrorism."
+    },
+    {
+        "photo":"https://edyoda.s3.amazonaws.com/media/blog-images/how-humans-tame-the-world-with-artificial-intelligence.jpg",
+        "title":"How Humans Tame the World with Artificial Intelligence",
+        "name":"EdYoda ",
+        "description":"Humans evolution and usage of technology have been a constant feature throughout the history of Humanity. So evolution and tech have always been a big constant and when we entered the 21st Century the comet that rocked the bottom was “Artificial Intelligence”. It all started in 1965 when John McCarthy coined up with the idea that machines can really take upon the world."
+    },
+    {
+        "photo":"https://edyoda.s3.amazonaws.com/media/blog-images/cyber-security-analysis-of-digital-world.jpg",
+        "title":"Cyber Security: Analysis of the digital world",
+        "name":"EdYoda ",
+        "description":"When computers were standalone devices, security was a minimal concern. Mainframes had their own protected facilities. Slowly and steadily as computing became more personal, security became the personal responsibility too. The use of computers increasingly involves networks of computers for messaging, on-line transactions, remote hosting."
+    },
+    {
+        "photo":"https://edyoda.s3.amazonaws.com/media/blog-images/importance-of-big-data-management-and-its-challenges.jpg",
+        "title":"Big Data: Importance of Big Data Management and its Challenges",
+        "name":"EdYoda ",
+        "description":"Big data is the phrase that is used to define large structured and unstructured volumes of data that has the potential to be mined for information and used in machine learning projects and other advanced analytics applications. According to the big data management, the quality of the data should be high and there should be accessibility for business intelligence. "
+    },
+    {
+        "photo":"https://edyoda.s3.amazonaws.com/media/blog-images/why-you-should-accelerate-your-knowledge-on-mobile-app-development.jpg",
+        "title":"Why you should accelerate your knowledge on Mobile App Development",
+        "name":"EdYoda ",
+        "description":"Over the most recent 10 years, Android has become famous, not only with its themes that have candy names yet in addition to its broad, and sudden, achievement. In its lifetime, the open-source portable working framework has developed to incorporate 1.4 billion dynamic clients"
+    },
+    {
+        "photo":"https://edyoda.s3.amazonaws.com/media/blog-images/the-new-way-to-encrypt-cloud-data-cloud-cryptography.jpg",
+        "title":"The New Way to Encrypt Cloud Data- Cloud Cryptography",
+        "name":"EdYoda ",
+        "description":"Distributed computing is one of the well-known subjects of the present world. The Internet has begun driving all these new innovations. The Internet was structured right off the bat to be solid, yet not totally sheltered. Circulated applications like these are much inclined to assault."
+    },
+    {
+        "photo":"https://edyoda.s3.amazonaws.com/media/blog-images/cloud-computing-an-umbrella-term-that-enables-digital-transformation.jpg",
+        "title":"Cloud Computing- An Umbrella Term that enables Digital Transformation",
+        "name":"EdYoda ",
+        "description":"Innovation and us holds a bond that compliments each other. Digital transformations without cloud computing as its partner are like a half-built bridge. As it empowers us and helps in making progressive moves."
+    },
+    {
+        "photo":"https://edyoda.s3.amazonaws.com/media/blog-images/understanding-devops.jpg",
+        "title":"Understanding DevOps",
+        "name":"EdYoda",
+        "description":"DevOps is a term derived after combining development and operation for a common purpose- driving the development of operational processes. It automates the processes between the software development and IT teams to build, test, and release software faster and enhances reliability. "
+    },
+    {
+        "photo":"https://edyoda.s3.amazonaws.com/media/blog-images/a-primer-on-python-programming-tutorial-for-beginners.png",
+        "title":"A Primer on Python Programming Tutorial for beginners",
+        "name":"EdYoda ",
+        "description":"Python has been the most dominant programming language in the development community for quite a few years now. This is evident from the fact that according to a recent survey by JetBrains 27% of Budding Developers have either started learning python or they have studied it in the past year."
+    },
+    {
+        "photo":"https://edyoda.s3.amazonaws.com/media/blog-images/automation-testing-an-overview.png",
+        "title":"Automation Testing: An Overview",
+        "name":"EdYoda ",
+        "description":"Software is all around us and it shapes the world differently. It shapes how the objects are designed, what information we receive, how and where we work, who we meet and communicate. Each generation of computing technology brings new ways of creative tools, new forms of data and new ways to interact themselves."
+    },
+    {
+        "photo":"https://edyoda.s3.amazonaws.com/media/blog-images/react-native-vs-flutter.png",
+        "title":"React Native Vs Flutter:",
+        "name":"EdYoda ",
+        "description":"The two biggest social platforms have created a buzz in the application development industry. React Native by Facebook and Flutter by Google are the latest two cross-platforms for mobile application development technologies. The popularity of these frameworks has taken over the much older framework in a very short span of time."
+    },
+    {
+        "photo":"https://edyoda.s3.amazonaws.com/media/blog-images/learn_machine_learning_courses_online.png",
+        "title":"Introduction To A Machine Learning Online Course",
+        "name":"EdYoda ",
+        "description":"We have had an insight into Artificial Intelligence. Well, one of its subfields is machine learning and this introduction will help you get a fair idea of what a machine learning online course holds. To begin with, one must understand what machine learning is."
+    },
+    {
+        "photo":"https://edyoda.s3.amazonaws.com/media/blog-images/6.png",
+        "title":"LAMP Stack Vs MEAN stack",
+        "name":"EdYoda ",
+        "description":"In today’s dynamic world, rapid web application development with a smooth user interface that can adapt to specific features is the main business requirement. Many organizations around the world that intensely depend on programming for their everyday business operations"
+    },
+    {
+        "photo":"https://edyoda.s3.amazonaws.com/media/blog-images/4.png",
+        "title":"Impact of Cloud Computing in various industries",
+        "name":"EdYoda ",
+        "description":"Cloud computing has been rapidly gaining pace in the world of information technology. It has been observed that over 90% of global enterprises are using cloud technology as part of their business. Every industry has its own technology dynamics designed to suit its infrastructure."
+    },
+    {
+        "photo":"https://edyoda.s3.amazonaws.com/media/blog-images/3.png",
+        "title":"Challenges of Machine Learning in Big Data Analytics",
+        "name":"EdYoda ",
+        "description":"Machine Learning is a subset of artificial intelligence which is an important part of computer science. The revolution of Big Data promises to transform the way we work, live and think by enabling the process of optimization, discovering insights and improved decision making."
+    },
+    {
+        "photo":"https://edyoda.s3.amazonaws.com/media/blog-images/5.png",
+        "title":"Breaking the Myths around Cybersecurity",
+        "name":"EdYoda ",
+        "description":"As the dependency on online platforms is increasing daily, cybersecurity is becoming an important concern for all companies today. The number of cyberattacks is ever-rising even after adopting every security measure possible by businesses. Cyber attackers are developing advancing technologies that are continuing to cause more damage."
+    },
+    {
+        "photo":"https://edyoda.s3.amazonaws.com/media/blog-images/7.png",
+        "title":"Importance of Data Backup and Recovery in the IT industry",
+        "name":"EdYoda ",
+        "description":"A business must always introspect the areas where they lack in order to bring about a positive change in the work environment. One of the main precautions or a contingency plan that is necessary for every business and especially industries working with clouds"
+    },
+    {
+        "photo":"https://edyoda.s3.amazonaws.com/media/blog-images/automation-testing-an-overview-2.png",
+        "title":"What is Web Scraping?",
+        "name":"Zac Clancy",
+        "description":"Some websites and platforms offer application programming interfaces (APIs) which we can use to access information in a structured way, but others might not. While APIs are certainly becoming the standard way of interacting with today’s popular platforms, we don’t always have this luxury when interacting with most of the websites on the internet."
+    },
+    {
+        "photo":"https://edyoda.s3.amazonaws.com/media/blog-images/what_is_isa_blog_1.png",
+        "title":"What is Income Share Agreement?",
+        "name":"EdYoda ",
+        "description":"The term Income Share Agreement has been around for a long time since 1955 to be precise. Surprised, eh? It was first introduced by Milton Friedman, an American economist, and statistician who strongly believed in “free-market capitalism”."
+    },
+    {
+        "photo":"https://edyoda.s3.amazonaws.com/media/blog-images/practical_machine_learning_1.png",
+        "title":"Practical Machine Learning with Python and Keras",
+        "name":"Daniel Pyrathon",
+        "description":"Machine learning is a field of artificial intelligence that uses statistical techniques to give computer systems the ability to “learn” (e.g., progressively improve performance on a specific task) from data, without being explicitly programmed."
+    },
+    {
+        "photo":"https://edyoda.s3.amazonaws.com/media/blog-images/EdYoda_Admission_Test_Image.png",
+        "title":"Your Guide to EdYoda Admission Test",
+        "name":"EdYoda ",
+        "description":"Ever since 2019, after a solid hit from the falling rate of economic growth, the job market seems to be challenging. With the technology-enabled disruption continuing to play its part, companies are becoming far more discerning in terms of hiring."
+    },
+    {
+        "photo":"https://edyoda.s3.amazonaws.com/media/blog-images/MicrosoftTeams-image_1.png",
+        "title":"All about AITEST and how to avail rewards up to INR 1 Crore",
+        "name":"EdYoda ",
+        "description":"Ever since 2019, after a solid hit from the falling rate of economic growth, the job market seems to be challenging. With the technology-enabled disruption continuing to play its part, companies are becoming far more discerning in terms of hiring"
+    },
+    {
+        "photo":"https://edyoda.s3.amazonaws.com/media/blog-images/EdYoda_Admission_Test_Image_small.png",
+        "title":"Your Guide to EdYoda Admission Test",
+        "name":"EdYoda ",
+        "description":"Ever since 2019, after a solid hit from the falling rate of economic growth, the job market seems to be challenging. With the technology-enabled disruption continuing to play its part, companies are becoming far more discerning in terms of hiring."
+    }
+    ]
